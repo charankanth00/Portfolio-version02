@@ -12,7 +12,7 @@ export const portfolioData = {
       "With hands-on experience as a Java Developer Intern, I have built real-world backend services with Spring Boot and SQL, while continuously expanding into DevOps tooling (Docker, Jenkins, Linux) and modern web technologies (HTML, CSS, JavaScript).",
       "Proficient in C, Java, and Python with a strong understanding of Data Structures, Object-Oriented Programming, and Linux command-line workflows. Ready to make an immediate impact on engineering teams."
     ],
-    resumeUrl: "/resume.pdf",
+    resumeUrl: "https://github.com/charankanth00/Portfolio-version02.github.io/blob/main/public/resume.pdf",
     email: "charanbandaru869@gmail.com",
     socials: {
       github: "https://github.com/charankanth00/",
